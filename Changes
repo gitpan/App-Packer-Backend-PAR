@@ -1,0 +1,5 @@
+Revision history for Perl extension App::Packer::Backend::PAR.
+
+0.01  Thu Nov 07 15:38:22 2002
+	- First version, extracted from the 'pp' script
+	  in PAR.
